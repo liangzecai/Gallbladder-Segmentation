@@ -1,0 +1,14 @@
+#python3.6.0
+
+pandas
+opencv-python
+
+Keras
+tensorflow
+scikit-image
+image-classifiers
+segmentation-models
+## pip install git+https://github.com/qubvel/segmentation_models
+
+jupyter
+ipykernel
