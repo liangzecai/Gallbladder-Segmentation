@@ -11,4 +11,3 @@ with a vision to facilitate surgery and reduce operation time.
 
 Slides: https://docs.google.com/presentation/d/1wBgypyFMpddu4wNkldPoJJuD3UGZf1MlAQCeYIxDw2c/edit#slide=id.g4cb7bce82c_6_10
 
-Demo:http://www.gb-segment.com:5000/
